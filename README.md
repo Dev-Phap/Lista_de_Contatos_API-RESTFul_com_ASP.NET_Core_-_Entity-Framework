@@ -1,4 +1,4 @@
-# 📋 Agenda de Contatos — API RESTful com ASP.NET Core + Entity Framework
+# 📋 Listas Contatos — API RESTful com ASP.NET Core + Entity Framework
 
 Projeto acadêmico desenvolvido como exercício prático durante a **Formação .NET Developer** da DIO.  
 O objetivo foi construir uma API RESTful completa do zero, aplicando os conceitos de Controllers, Endpoints CRUD, Entity Framework Core e boas práticas de arquitetura REST.
